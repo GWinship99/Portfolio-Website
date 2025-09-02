@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align:center;
+    padding:10px;
+    background-color: #edcedd;
+}
+
+header img {
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+h1,h2 {
+    color: #ad5a81;
+}
+
+#intro, #contact {
+    background-color:#edcedd;
+    padding: 15px;
+}
+
+footer {
+    background-color: #edcedd;
+    text-align: center;
+    padding: 10px;
+}
